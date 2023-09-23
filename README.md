@@ -1,4 +1,3 @@
-# Lined-list
 
 <h1>Linked List project</h1>
 <hr>
